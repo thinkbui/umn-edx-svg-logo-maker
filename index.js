@@ -1,1 +1,5 @@
-console.log("Hello World.");
+const CLI = require('./lib/cli.js');
+
+const cli = new CLI();
+
+cli.run();
