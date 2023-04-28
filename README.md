@@ -3,7 +3,7 @@
 ## SUMMARY
 This is a simple, command line app that generates a basic SVG logo that could be used for different apps including web apps.  You can pick the text (up to 3 characters), the shape (circle, triangle, rectangle), and colors for each (keyword or hex).
 
-The logo can be output to a file named *output.svg* or printed to the console.
+The logo can be output to a file named *logo.svg* or printed to the console.
 
 ## INSTALLATION & USAGE
 This project is built with Node.JS.  You will need to have that installed before you begin.
