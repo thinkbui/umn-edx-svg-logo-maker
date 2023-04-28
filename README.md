@@ -14,6 +14,8 @@ This project is built with Node.JS.  You will need to have that installed before
 ## NOTES
 The colors are hardcoded in at the moment, so only certain colors are available.  The rest of the colors supported in SVG may be added later.
 
+Since SVG images are a form of XML, realistically an XML library should have been used to help generate the output.  However in order to get things working as an MVP, string building and manipulation is used for the time being.  Nonetheless the code is structured such that pivoting to using an XML library would require minimal effort.
+
 ## DEMOS
 Below are animations demonstrating the usage of this project.  They are also available as WEBM and MP4 videos in this repository.
 
